@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Node dependencies
+**/node_modules/
+
+# React build output
+**/dist/
+
+# IDE / editor files
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
